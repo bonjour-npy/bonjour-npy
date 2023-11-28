@@ -1,4 +1,4 @@
-<span >
+<span align="center">
   <img src="https://img.shields.io/badge/Welcome-Shit-blue" />
 </span>
 
