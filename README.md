@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?bonjour-npy=Ashutosh00710&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![bonjour-npy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bonjour-npy&theme=github)](https://github.com/bonjour-npy/github-readme-activity-graph)
 
 <!--
 **bonjour-npy/bonjour-npy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
