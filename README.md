@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bonjour-npy&column=5&margin-w=9&margin-h=9&theme=flat">
+  <img src="https://github-profile-trophy.vercel.app/?username=bonjour-npy&column=5&margin-w=20&margin-h=20&theme=flat">
 </div>
 
 <div align="center">
