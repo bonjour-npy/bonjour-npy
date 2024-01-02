@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Click_Here_To-My_Blog-blue?link=https%3A%2F%2Fbonjour-npy.github.io" />
 </div>
 
-[![Static Badge](https://img.shields.io/badge/Homepage-Peiyang_Ni-blue)](![Static Badge](https://bonjour-npy.github.io/)
+[![Static Badge](https://img.shields.io/badge/Homepage-Peiyang_Ni-blue)](https://bonjour-npy.github.io)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonjour-npy&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
