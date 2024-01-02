@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://bonjour-npy.github.io">
-    <img src="https://img.shields.io/badge/Homepage-Peiyang_Ni-blue">
+    <img src="https://img.shields.io/badge/Homepage-Peiyang_Ni-green">
   </a>
   <a href="https://uestc.edu.cn">
     <img src="https://img.shields.io/badge/Postgraduate_School-UESTC-blue">
