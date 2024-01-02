@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bonjour-npy&column=5&raw=2&margin-w=15&margin-h=15&theme=flat">
+  <img src="https://github-profile-trophy.vercel.app/?username=bonjour-npy&column=3&raw=2&margin-w=15&margin-h=15&theme=flat">
 </div>
 
 <div align="center">
