@@ -26,5 +26,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonjour-npy" />
+  <img width=150rem src="https://github-readme-streak-stats.herokuapp.com/?user=bonjour-npy" />
 </div>
