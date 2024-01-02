@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Click_Here_To-My_Blog-blue?link=https%3A%2F%2Fbonjour-npy.github.io" />
-</div>
-
 [![Static Badge](https://img.shields.io/badge/Homepage-Peiyang_Ni-blue)](https://bonjour-npy.github.io)
 
 <div align="center">
