@@ -28,5 +28,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonjour-npy" />
 </div>
-
-[![bonjour-npy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bonjour-npy&theme=github#pic_center)](https://github.com/bonjour-npy/github-readme-activity-graph)
