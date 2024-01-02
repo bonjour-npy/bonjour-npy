@@ -1,23 +1,23 @@
 <div align="center">
   <a href="https://bonjour-npy.github.io">
-    <img src="https://img.shields.io/badge/Homepage-Peiyang_Ni-blue">
+    <img src="https://img.shields.io/badge/Homepage-Peiyang_Ni-blue" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://uestc.edu.cn">
-    <img src="https://img.shields.io/badge/Postgraduate_School-UESTC-blue">
+    <img src="https://img.shields.io/badge/Postgraduate_School-UESTC-blue" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://guet.edu.cn">
-    <img src="https://img.shields.io/badge/Graduate_School-GUET-blue">
+    <img src="https://img.shields.io/badge/Graduate_School-GUET-blue" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bonjour-npy&column=5&margin-w=30&margin-h=20&theme=flat">
+  <img src="https://github-profile-trophy.vercel.app/?username=bonjour-npy&column=5&margin-w=30&margin-h=20&theme=flat" />
 </div>
 
 <div align="center">
