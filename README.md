@@ -2,6 +2,9 @@
   <a href="https://bonjour-npy.github.io">
     <img src="https://img.shields.io/badge/Homepage-Peiyang_Ni-blue">
   </a>
+  <a href="https://uestc.edu.cn">
+    <img src="https://img.shields.io/badge/Postgraduate_School-University_of_Electronic_Science_and_Technology_of_China-purple">
+  </a>
 </div>
 
 <div align="center">
