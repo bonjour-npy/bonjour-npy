@@ -1,4 +1,5 @@
-📫Welcome to my website: [![Blog](https://img.shields.io/badge/Homepage-Peiyang_Ni-blue)](https://bonjour-npy.github.io)
+Bonjour! Welcome to my GitHub homepage.🏠
+📫For more information, please visit my website: [![Blog](https://img.shields.io/badge/Homepage-Peiyang_Ni-blue)](https://bonjour-npy.github.io)
 <div align="center">
   <a href="https://bonjour-npy.github.io">
     <img src="https://img.shields.io/badge/Homepage-Peiyang_Ni-blue" />
