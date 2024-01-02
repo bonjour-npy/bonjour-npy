@@ -2,7 +2,7 @@
 
 🏠Welcome to my GitHub homepage.
 
-🏫I'm currently a postgraduate student in Computer Science at [![Postgraduate School](https://img.shields.io/badge/电子科技大学-University_of_Electronic_Science_and_Technology_of_China-darkblue)](https://www.uestc.edu.cn/)
+🏫I'm currently a postgraduate student in Computer Science at [![Postgraduate School](https://img.shields.io/badge/电子科技大学-University_of_Electronic_Science_and_Technology_of_China-heavyblue)](https://www.uestc.edu.cn/)
 
 📖I've completed my undergraduate studies at [![Undergraduate School](https://img.shields.io/badge/桂林电子科技大学-Guilin_University_of_Electronic_Technology-heavygreen)](https://www.guet.edu.cn/)
 
