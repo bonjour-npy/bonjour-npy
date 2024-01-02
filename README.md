@@ -1,3 +1,5 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=bonjour-npy&theme=onedark)
+
 <div align="center">
   <a href="https://bonjour-npy.github.io">
     <img src="https://img.shields.io/badge/Homepage-Peiyang_Ni-blue">
