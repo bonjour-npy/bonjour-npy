@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bonjour-npy&rank=SSS,SS,S,AAA,AA,A,B,C&theme=one_dark">
+  <img src="https://github-profile-trophy.vercel.app/?username=bonjour-npy&rank=SSS,SS,S,AAA,AA,A,B,C&theme=onedark">
 </div>
 
 <div align="center">
