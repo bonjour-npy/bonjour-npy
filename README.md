@@ -2,7 +2,10 @@
 
 🏠Welcome to my GitHub homepage.
 
-📫For more information, please visit my website: [![Blog](https://img.shields.io/badge/Homepage-Peiyang_Ni-blue)](https://bonjour-npy.github.io)
+📫For more information, please visit my website: [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-blue)](https://bonjour-npy.github.io)
+
+📖I'm currently a postgraduate student of [![Postgraduate School](https://img.shields.io/badge/University_of_Electronic_Science_and_Technology_of_China-purple)](https://uestc.edu.cn), majoring in CS.
+
 <div align="center">
   <a href="https://bonjour-npy.github.io">
     <img src="https://img.shields.io/badge/Homepage-Peiyang_Ni-blue" />
