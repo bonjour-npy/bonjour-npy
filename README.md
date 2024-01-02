@@ -1,5 +1,5 @@
-<a align="center" href="https://bonjour-npy.github.io">
-  <img src="https://img.shields.io/badge/Homepage-Peiyang_Ni-blue"
+<a href="https://bonjour-npy.github.io">
+  <img src="https://img.shields.io/badge/Homepage-Peiyang_Ni-blue" align="center">
 </a>
 
 <div align="center">
