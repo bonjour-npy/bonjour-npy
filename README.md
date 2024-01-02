@@ -1,7 +1,3 @@
-<div align="center" herf="https://bonjour-npy.github.io">
-  <img src="https://img.shields.io/badge/Homepage-Peiyang_Ni-blue"
-</div>
-  
 [![Homepage Badge](https://img.shields.io/badge/Homepage-Peiyang_Ni-blue#pic_center)](https://bonjour-npy.github.io)
 
 <div align="center">
