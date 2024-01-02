@@ -4,7 +4,7 @@
 
 📫For more information, please visit my website: [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-blue)](https://bonjour-npy.github.io)
 
-📖I'm currently a postgraduate student of [![Postgraduate School](https://img.shields.io/badge/电子科技大学-University_of_Electronic_Science_and_Technology_of_China-blue)](https://www.uestc.edu.cn/), majoring in Computer Science.
+📖I'm currently a CS postgraduate student of [![Postgraduate School](https://img.shields.io/badge/电子科技大学-University_of_Electronic_Science_and_Technology_of_China-blue)](https://www.uestc.edu.cn/)
 
 <div align="center">
   <a href="https://bonjour-npy.github.io">
