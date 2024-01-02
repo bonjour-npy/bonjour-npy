@@ -4,23 +4,9 @@
 
 📫For more information, please visit my website: [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-blue)](https://bonjour-npy.github.io)
 
-📖I'm currently a CS postgraduate student of [![Postgraduate School](https://img.shields.io/badge/电子科技大学-University_of_Electronic_Science_and_Technology_of_China-blue)](https://www.uestc.edu.cn/)
+🏫I'm currently a CS postgraduate student of [![Postgraduate School](https://img.shields.io/badge/电子科技大学-University_of_Electronic_Science_and_Technology_of_China-blue)](https://www.uestc.edu.cn/)
 
-<div align="center">
-  <a href="https://bonjour-npy.github.io">
-    <img src="https://img.shields.io/badge/Homepage-Peiyang_Ni-blue" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://uestc.edu.cn">
-    <img src="https://img.shields.io/badge/Postgraduate_School-UESTC-blue" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://guet.edu.cn">
-    <img src="https://img.shields.io/badge/Graduate_School-GUET-blue" />
-  </a>
-</div>
+📖I've completed my undergraduate studies at [![Undergraduate School](https://img.shields.io/badge/桂林电子科技大学-Guilin_University_of_Electronic_Technology-blue)](https://www.guet.edu.cn/)
 
 <div align="center">
   <img height=275rem src="https://github-profile-trophy.vercel.app/?username=bonjour-npy&column=5&margin-w=30&margin-h=20&theme=flat" />
