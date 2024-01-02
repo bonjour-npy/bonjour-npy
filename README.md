@@ -2,9 +2,9 @@
 
 🏠Welcome to my GitHub homepage.
 
-🏫I'm currently a postgraduate student in Computer Science at [![Postgraduate School](https://img.shields.io/badge/电子科技大学-University_of_Electronic_Science_and_Technology_of_China-blue?logo=unitednations)](https://www.uestc.edu.cn/)
+🏫I'm currently a postgraduate student in Computer Science at [![Postgraduate School](https://img.shields.io/badge/电子科技大学-University_of_Electronic_Science_and_Technology_of_China-blue)](https://www.uestc.edu.cn/)
 
-📖I've completed my undergraduate studies at [![Undergraduate School](https://img.shields.io/badge/桂林电子科技大学-Guilin_University_of_Electronic_Technology-pinkred?logo=spacex)](https://www.guet.edu.cn/)
+📖I've completed my undergraduate studies at [![Undergraduate School](https://img.shields.io/badge/桂林电子科技大学-Guilin_University_of_Electronic_Technology)](https://www.guet.edu.cn/)
 
 📫For more information, please visit my website [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-orange?logo=tesla)](https://bonjour-npy.github.io)
 
