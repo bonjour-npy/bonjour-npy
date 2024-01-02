@@ -1,6 +1,8 @@
-<a href="https://bonjour-npy.github.io" style="text-align:center; display:block;">
-  <img src="https://img.shields.io/badge/Homepage-Peiyang_Ni-blue" style="margin:auto;">
-</a>
+<div align="center">
+  <a href="https://bonjour-npy.github.io">
+    <img src="https://img.shields.io/badge/Homepage-Peiyang_Ni-blue">
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonjour-npy&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
