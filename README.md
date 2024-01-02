@@ -1,4 +1,6 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=bonjour-npy&theme=onedark)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bonjour-npy&theme=onedark">
+</div>
 
 <div align="center">
   <a href="https://bonjour-npy.github.io">
