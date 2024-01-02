@@ -6,7 +6,7 @@
 
 📖I've completed my undergraduate studies at [![Undergraduate School](https://img.shields.io/badge/桂林电子科技大学-Guilin_University_of_Electronic_Technology-heavygreen)](https://www.guet.edu.cn/)
 
-📫For more information, please visit my website [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-red?logo=tesla&logoColor=red)](https://bonjour-npy.github.io)
+📫For more information, please visit my website [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-red?logo=tesla)](https://bonjour-npy.github.io)
 
 <div align="center">
   <img height=275rem src="https://github-profile-trophy.vercel.app/?username=bonjour-npy&column=5&margin-w=30&margin-h=20&theme=flat" />
