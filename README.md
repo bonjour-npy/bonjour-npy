@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Click_Here_To-My_Blog-blue?link=https%3A%2F%2Fbonjour-npy.github.io" />
+  [<img src="https://img.shields.io/badge/Click_Here_To-My_Blog-blue?link=https%3A%2F%2Fbonjour-npy.github.io" />](https://bonjour-npy.github.io/)
 </div>
 
 <div align="center">
