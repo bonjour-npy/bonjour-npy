@@ -1,5 +1,7 @@
 # 🌟 Introduction
 
+🎉 'How about pay a visit to my personal website, as well as my notebook.' [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-red?logo=tesla)](https://bonjour-npy.github.io)
+
 👋 Bonjour!
 
 🏠 Welcome to my GitHub homepage.
