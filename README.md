@@ -1,10 +1,10 @@
-# 🚨 First Things First
-
-🎉 How about pay a visit to my personal website 👉 [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-red?logo=tesla)](https://bonjour-npy.github.io)
-
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=What's%20up%20🤠&text2=💖&width=500&height=300"/>
 </p>
+
+# 🚨 First Things First
+
+🎉 How about pay a visit to my personal website 👉 [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-red?logo=tesla)](https://bonjour-npy.github.io)
 
 # 🌟 Introduction
 
