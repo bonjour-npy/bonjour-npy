@@ -8,9 +8,9 @@
 
 - 🏠 Welcome to my GitHub homepage
 
-- 🏫 I'm currently a postgraduate student in Computer Science at 👉 [![Postgraduate School](https://img.shields.io/badge/ME-University_of_Electronic_Science_and_Technology_of_China-blue)](https://www.uestc.edu.cn/)
+- 🏫 I'm currently a postgraduate student in Computer Science at 👉 [![Postgraduate School](https://img.shields.io/badge/M.E.-University_of_Electronic_Science_and_Technology_of_China-blue)](https://www.uestc.edu.cn/)
 
-- 📖 I've completed my undergraduate studies at 👉 [![Undergraduate School](https://img.shields.io/badge/BE-Guilin_University_of_Electronic_Technology-heavygreen)](https://www.guet.edu.cn/)
+- 📖 I've completed my undergraduate studies at 👉 [![Undergraduate School](https://img.shields.io/badge/B.E.-Guilin_University_of_Electronic_Technology-heavygreen)](https://www.guet.edu.cn/)
 
 - 📫 For more information, please visit [my personal website](https://bonjour-npy.github.io)
 
