@@ -2,6 +2,10 @@
 
 🎉 How about pay a visit to my personal website 👉 [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-red?logo=tesla)](https://bonjour-npy.github.io)
 
+<p align="center>
+  [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=What's%20up%20🤠&text2=💖&width=400&height=200)](https://github.com/Akshay090/svg-banners)
+</p>
+
 # 🌟 Introduction
 
 - 👋 Bonjour!
@@ -32,5 +36,3 @@
 <div align="center">
   <img width=600rem src="https://github-readme-streak-stats.herokuapp.com/?user=bonjour-npy" />
 </div>
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=What's%20up%20🤠&text2=💖&width=800&height=400)](https://github.com/Akshay090/svg-banners)
