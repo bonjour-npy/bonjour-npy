@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=get%20started%20🤠&text2=welcome&width=800&height=300"/>
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=welcome%20🤠&text2=get%20started&width=800&height=300"/>
 </p>
 
 # 🚨 First Things First
