@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=What's%20up%20🤠&text2=Welcome&width=500&height=300"/>
-</p>
-
 # 🚨 First Things First
 
 🎉 How about pay a visit to my personal website 👉 [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-red?logo=tesla)](https://bonjour-npy.github.io)
@@ -36,3 +32,7 @@
 <div align="center">
   <img width=600rem src="https://github-readme-streak-stats.herokuapp.com/?user=bonjour-npy" />
 </div>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=get%20stated%20🤠&text2=Fighting&width=500&height=300"/>
+</p>
