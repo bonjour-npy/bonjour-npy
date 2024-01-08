@@ -34,5 +34,5 @@
 </div>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=get%20stated%20🤠&text2=Fighting&width=500&height=300"/>
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=get%20started%20🤠&text2=Fighting&width=500&height=300"/>
 </p>
