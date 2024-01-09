@@ -6,7 +6,7 @@
 
 🎉 How about pay a visit to my personal website? 
 
-🔗 _**Click Here! 👉**_ [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-red?logo=tesla)](https://bonjour-npy.github.io)
+🔗 _**[Click Here!](https://bonjour-npy.github.io)**_ 👉 [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-red?logo=tesla)](https://bonjour-npy.github.io)
 
 # 🌟 Introduction
 
