@@ -4,7 +4,7 @@
 
 # 🚨 [First Things First](https://bonjour-npy.github.io)
 
-🎉 How about pay a visit to my personal website? 
+🎉 How about pay a visit to my [personal website](https://bonjour-npy.github.io)? 
 
 🔗 _**[Click Here!](https://bonjour-npy.github.io)**_ 👉 [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-red?logo=tesla)](https://bonjour-npy.github.io)
 
@@ -18,7 +18,7 @@
 
 - 📖 I've completed my undergraduate studies at 👉 [![Undergraduate School](https://img.shields.io/badge/B.E.-Guilin_University_of_Electronic_Technology-heavygreen)](https://www.guet.edu.cn/)
 
-- 📫 For more information, please visit [my personal website](https://bonjour-npy.github.io)
+- 📫 For more information, please visit my [personal website](https://bonjour-npy.github.io)
 
 # 🏆 My Trophies
 
