@@ -2,13 +2,13 @@
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Bonjour%20🤠&text2=Let's%20Get%20Started&width=800&height=250"/>
 </p>
 
-# 🚨 _[First Things First](https://bonjour-npy.github.io)_
+# 🚨 [First Things First](https://bonjour-npy.github.io)
 
 🎉 How about pay a visit to my **_[personal website](https://bonjour-npy.github.io)_**? 
 
 🔗 _**[Click Here!](https://bonjour-npy.github.io)**_ 👉 [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-red?logo=tesla)](https://bonjour-npy.github.io)
 
-# ✨ Introduction
+# 🦄 Introduction
 
 - 👋 Bonjour!
 
