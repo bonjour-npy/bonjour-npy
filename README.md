@@ -8,7 +8,7 @@
 
 🔗 _**[Click here!](https://bonjour-npy.github.io)**_ 👉 [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-red?logo=tesla)](https://bonjour-npy.github.io)
 
-# ⚒️ Introduction
+# 🌟 Introduction
 
 - 👋 Bonjour!
 
@@ -27,6 +27,10 @@
 <div align="center">
   <img height=275rem src="https://github-profile-trophy.vercel.app/?username=bonjour-npy&column=5&margin-w=30&margin-h=20&theme=flat" />
 </div>
+
+# ⚒️ Commit Contributions
+
+ ![](profile-3d-contrib/profile-south-season-animate.svg)
 
 # 📈 General Stats
 
