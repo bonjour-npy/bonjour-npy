@@ -19,6 +19,8 @@
 - 📖 I've completed my undergraduate studies at 👉 [![Undergraduate School](https://img.shields.io/badge/B.E.-Guilin_University_of_Electronic_Technology-heavygreen)](https://www.guet.edu.cn/)
 
 - 📫 For more information, please visit my _**[personal website](https://bonjour-npy.github.io)**_
+  
+- 🎋 Hope we all have a **BRIGHT FUTURE**
 
 # 🏆 My Trophies
 
