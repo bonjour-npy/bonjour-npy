@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:  # 03:00 JST == 18:00 UTC
-    - cron: "0 16 * * *"  # 00:00 北京时间 == 16:00 UTC
+  schedule:  # 00:30 北京时间 == 16:30 UTC
+    - cron: "30 16 * * *"  
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,6 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
