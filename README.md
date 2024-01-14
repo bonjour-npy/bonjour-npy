@@ -43,4 +43,4 @@
 
 # ⚒️ Recent Commits
 
- ![](profile-3d-contrib/profile-south-season-animate.svg)
+ ![](profile-3d-contrib/profile-south-season.svg)
