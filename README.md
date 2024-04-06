@@ -20,7 +20,7 @@
 
 - 📫 For more information, please visit my _**[personal website](https://bonjour-npy.github.io)**_
   
-- 🎋 Hope we all have a **BRIGHT FUTURE**
+- 🎋 Always party always win! Hope we all have a **BRIGHT FUTURE**
 
 # 🏆 My Trophies
 
