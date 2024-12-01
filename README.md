@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=🤗Bonjour%20😆&text2=Welcom%20to%20my%20GitHub%20homepage&width=800&height=250"/>
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=🤗%20Bonjour%20😆&text2=Welcom%20to%20my%20GitHub%20homepage&width=800&height=250"/>
 </p>
 
 # 🚨 [First Things First](https://bonjour-npy.github.io)
