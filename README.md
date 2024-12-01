@@ -6,7 +6,7 @@
 
 🎉 How about pay a visit to my **_[personal website](https://bonjour-npy.github.io)_**? 
 
-🔗 _**[Click here!](https://bonjour-npy.github.io)**_ 👉 [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-skyblue?logo=generalelectric)](https://bonjour-npy.github.io)
+🔗 _**[Click here!](https://bonjour-npy.github.io)**_ 👉 [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-purple?logo=generalelectric)](https://bonjour-npy.github.io)
 
 # 🌟 Introduction
 
