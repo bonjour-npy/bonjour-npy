@@ -12,6 +12,8 @@
 
 - 📖 I've completed my undergraduate studies at ➡️ [![Undergraduate School](https://img.shields.io/badge/B.E.-Guilin_University_of_Electronic_Technology-heavygreen)](https://www.guet.edu.cn/)
 
+- 📑 I'm currently focusing on Large Language Models (LLMs) and Generative Models, with a particular emphasis on their application across LiDAR point cloud data and other related modalities.
+
 - 📫 For more information, please visit my _**[personal website](https://bonjour-npy.github.io)**_
   
 - 🎋 Always party always win! Hope we all have a **BRIGHT FUTURE**
