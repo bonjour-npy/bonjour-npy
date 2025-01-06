@@ -2,12 +2,6 @@
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=🤗%20Bonjour%20😆&text2=Welcom%20to%20my%20GitHub%20homepage&width=800&height=250"/>
 </p>
 
-# 🚨 [First Things First](https://bonjour-npy.github.io)
-
-🎉 How about pay a visit to my **_[personal website](https://bonjour-npy.github.io)_**? 
-
-🔗 _**[Click here!](https://bonjour-npy.github.io)**_ 👉 [![Website](https://img.shields.io/badge/Homepage-Peiyang_Ni-yellow?logo=generalelectric)](https://bonjour-npy.github.io)
-
 # 🌟 Introduction
 
 - 👋 Bonjour!
