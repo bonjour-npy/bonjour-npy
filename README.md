@@ -18,7 +18,7 @@
 
 # 🔥 News
 
-- 🎉 Feb, 2026: Our paper “Structure-to-Intensity Diffusion for Adverse-Weather LiDAR Generation” has been accepted by CVPR.
+- 🎉 Feb, 2026: Our paper “[Structure-to-Intensity Diffusion for Adverse-Weather LiDAR Generation](https://openaccess.thecvf.com/content/CVPR2026/html/Ni_Structure-to-Intensity_Diffusion_for_Adverse-Weather_LiDAR_Generation_CVPR_2026_paper.html)” has been accepted by CVPR.
 
 # 📊 Streak Stats
 
