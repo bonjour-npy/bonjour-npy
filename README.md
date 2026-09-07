@@ -12,9 +12,9 @@
 
 - 📑 I'm currently focusing on Generative Models, with a particular emphasis on the application across LiDAR point clouds
 
-- 🌍 Visit **[my academic page](https://bonjour-npy.github.io/academic-page/)**
+- 🌍 Visit **[my academic page](https://bonjour-npy.github.io)**
 
-- 📒 Visit **[my blog](https://bonjour-npy.github.io)**
+- 📒 Visit **[my blog](https://bonjour-npy.github.io/blog)**
 
 # 🔥 News
 
