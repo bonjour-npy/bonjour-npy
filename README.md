@@ -6,13 +6,13 @@
 
 - 🏠 Welcome to my GitHub homepage
 
-- 🏫 I'm working on my Master's degree in Computer Science at ➡️ [![Postgraduate School](https://img.shields.io/badge/M.E.-University_of_Electronic_Science_and_Technology_of_China-blue)](https://www.uestc.edu.cn/)
+- 🏫 I'm working on my Master's degree in Computer Science at ➡️ [University_of_Electronic_Science_and_Technology_of_China (UESTC)](https://www.uestc.edu.cn/)
 
-- 📖 I've completed my undergraduate studies at ➡️ [![Undergraduate School](https://img.shields.io/badge/B.E.-Guilin_University_of_Electronic_Technology-heavygreen)](https://www.guet.edu.cn/)
+- 📖 I've completed my undergraduate studies at ➡️ [Guilin_University_of_Electronic_Technology (GUET)](https://www.guet.edu.cn/)
 
 - 📑 I'm currently focusing on Generative Models, with a particular emphasis on the application across LiDAR point clouds
 
-- 🌍 Visit **[my academic page](https://bonjour-npy.github.io)**
+- 🌍 Visit **[my homepage](https://bonjour-npy.github.io)**
 
 - 📒 Visit **[my blog](https://bonjour-npy.github.io/blog)**
 
